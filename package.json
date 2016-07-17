@@ -1,0 +1,19 @@
+{
+  "name": "hyperterm-material",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/dperrera/hyperterm-material"
+  },
+  "version": "0.1.0",
+  "description": "A material inspired theme for hyperterm.",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm"
+  ],
+  "author": {
+    "name": "Dan Perrera",
+    "email": "dan@foredesign.co",
+    "url": "https://foredesign.co"
+  },
+  "license": "ISC"
+}
