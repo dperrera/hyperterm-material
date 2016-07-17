@@ -6,7 +6,7 @@ exports.decorateConfig = (config) => {
     colors: [
       '#000000',
       '#FF5252',
-      '#AED581',
+      '#9CCC65',
       '#fee94e',
       '#2b98f0',
       '#b38bfc',
@@ -14,7 +14,7 @@ exports.decorateConfig = (config) => {
       '#939393',
       '#617d8a',
       '#fc625d',
-      '#AED581',
+      '#9CCC65',
       '#fee94e',
       '#2b98f0',
       '#b38bfc',
