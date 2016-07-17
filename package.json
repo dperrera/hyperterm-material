@@ -4,7 +4,7 @@
     "type" : "git",
     "url" : "https://github.com/dperrera/hyperterm-material"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A material inspired theme for hyperterm.",
   "main": "index.js",
   "keywords": [
