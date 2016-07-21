@@ -12,7 +12,7 @@ exports.decorateConfig = (config) => {
       '#2b98f0',
       '#b38bfc',
       '#68b6f3',
-      '#939393',
+      '#ECEFF1',
       '#617d8a',
       '#fc625d',
       '#9CCC65',
@@ -20,7 +20,7 @@ exports.decorateConfig = (config) => {
       '#2b98f0',
       '#b38bfc',
       '#68b6f3',
-      '#b2ccd6'
+      '#ffffff'
     ],
     css: `
       ${config.css || ''}
