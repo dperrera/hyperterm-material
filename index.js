@@ -33,7 +33,7 @@ exports.decorateConfig = (config) => {
       .tab_tab {
         border: 0;
       }
-      .tab_active::before {
+      .tab_textActive {
         border-bottom: 2px solid #009688;
       }
     `
