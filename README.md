@@ -1,6 +1,6 @@
 # Hyperterm Material
 
-A material design inspired theme plugin for [HyperTerm](https://hyperterm.org).
+A material design inspired theme plugin for [Hyper](https://hyper.is/).
 
 ![Screenshot](/images/hyperterm-material.png)
 
