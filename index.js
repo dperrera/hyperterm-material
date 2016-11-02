@@ -24,7 +24,7 @@ exports.decorateConfig = (config) => {
     },
     css: `
       ${config.css || ''}
-      .hyperterm_main {
+      .hyper_main {
         border: none !important;
       }
       .header_header {
