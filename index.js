@@ -36,6 +36,9 @@ exports.decorateConfig = (config) => {
       .tab_textActive {
         border-bottom: 2px solid #009688;
       }
+      .splitpane_divider {
+        background-color: rgba(170, 187, 195, 0.16) !important;
+      }
     `
   })
 }
