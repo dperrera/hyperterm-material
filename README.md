@@ -1,4 +1,4 @@
-# Hyperterm Material
+# Hyper Material Theme
 
 A material design inspired theme plugin for [Hyper](https://hyper.is/).
 
