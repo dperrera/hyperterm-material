@@ -7,5 +7,5 @@ A material design inspired theme plugin for [Hyper](https://hyper.is/).
 ## Install
 Add `hyperterm-material` to your plugins list, like so:
 ```
-plugins: [`hyperterm-material`]
+plugins: ['hyperterm-material']
 ```
