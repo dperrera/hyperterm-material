@@ -39,6 +39,14 @@ exports.decorateConfig = (config) => {
       .splitpane_divider {
         background-color: rgba(170, 187, 195, 0.16) !important;
       }
+      .term_term {
+        opacity: 0.5;
+        transition: opacity 0.15s ease-in-out;
+        will-change: opacity;
+      }
+      .term_active .term_term {
+        opacity: 1;
+      }
     `
   })
 }
